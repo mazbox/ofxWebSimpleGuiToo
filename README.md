@@ -17,6 +17,8 @@ then call
 
 webGui.startServer()
 
+You also need data/ofxWebSimpleGuiToo/* from the example in your data folder.
+
 then point your browser to http://localhost:8910/
 
 
