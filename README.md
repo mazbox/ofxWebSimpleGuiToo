@@ -13,3 +13,10 @@ use
 
 webGui.addSlider(...)
 
+then call 
+
+webGui.startServer()
+
+then point your browser to http://localhost:8910/
+
+
